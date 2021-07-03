@@ -1,0 +1,110 @@
+body{
+    background-color: rgb(145, 135, 135);
+}
+
+.main-div{
+height: 615px;
+width: 800px;
+background-color: cadetblue;
+margin: 0px auto;
+
+}
+.img{
+    height: 100px;
+    width: 80px;
+    border: white;
+    border-radius: 50%;
+    float: left;
+}
+.name-div{
+    float: left;
+    line-height:5px;
+    margin: 10px;
+}
+.contuct-div{
+    float: right;
+    line-height: 5px;
+    padding-right:30px;
+    margin: 7px;
+    
+}
+.contuct-div a{
+    color: black;
+    text-decoration: none;
+
+}
+.contuct-div a:hover{
+    font-size: 20px;
+    color: tomato;
+}
+.clear-div{
+    clear: both;
+}
+hr{
+    border: 2px  black solid;
+}
+span{
+    display: block;
+}
+.info{
+    float: right;
+    text-align: inherit;
+}
+.P-I-D{
+    float: right;
+    line-height: 5px;
+    padding-right: 140px;
+    
+}
+.P-I{
+    float: left;
+    padding-left: 5px;
+}
+.clear-div2{
+    clear: both;
+}
+.D-I{
+    float: left;
+    padding-left: 5px;
+}
+.about-diploma{
+    float: right;
+    line-height: 7px;
+    padding-right: 10px;
+}
+.div-clear3{
+    clear: both;
+}
+.bsc{
+    float: left;
+    padding:5px;
+}
+.about-bsc{
+    float: right;
+    line-height: 5px;
+    padding-right: 140px;
+}
+.div-clear4{
+    clear: both;
+}
+.foot{
+    background-color: black;
+    width: 800px;
+    height: 80px;
+    text-align: center;
+    
+}
+.foot a{
+    color: white;
+
+}
+.first-link{
+    padding: 15px;
+}
+.foot a:hover{
+    color: tomato;
+    font-size: 38px;
+}
+.copy{
+    color: white;
+}
